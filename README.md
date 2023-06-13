@@ -4,6 +4,8 @@
 - 🔭 Atualmente trabalho atuo como front-end developer ...
 - 🌱 Estou constantemente estudando novas linguagens ...
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 <div style='display: inline-block'><br>
   Skills: <br><br>
 
@@ -13,4 +15,5 @@
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img src=''/>
 <div/>
