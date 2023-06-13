@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente trabalho atuo como front-end developer ...
 - 🌱 Estou constantemente estudando novas linguagens ...
-
-## https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green****
-
+ ## 
 <div style='display: inline-block'><br>
   Skills: <br><br>
 
