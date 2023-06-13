@@ -1,8 +1,9 @@
 ### Opá tudo bom, eu sou Vitor Machado Guilhen 👋
 
 
-- 🔭 Atualmente trabalho como front-end developer ...
-- 🌱 Sou um estudante facinado por programação ...
+- 💻 Front-end/Back-end DEV
+- 🎓 Sou um estudante facinado por programação
+
  ## 
 <div style='display: inline-block'>
   Skills: <br><br>
